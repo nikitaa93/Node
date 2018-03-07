@@ -1,3 +1,4 @@
+'use strict';
 let buf = new Buffer('Nikita');
 let buf1 = new Buffer('Aggarwal');
 
